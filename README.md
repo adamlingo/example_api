@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## [Watch the tutorial here :)](https://www.youtube.com/watch?v=nKQaGBpdEAQ)
 
-Things you may want to cover:
+## Video by user [Code Like A Boss](https://www.youtube.com/channel/UCBUvuSmXyDz8fvAYrisHrrw)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# designed to be connected to Angular 2+ project
