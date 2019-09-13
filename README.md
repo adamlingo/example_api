@@ -4,4 +4,4 @@
 
 ## Video by user [Code Like A Boss](https://www.youtube.com/channel/UCBUvuSmXyDz8fvAYrisHrrw)
 
-# designed to be connected to Angular 2+ project
+**Designed to be connected to Angular 2+ project**
